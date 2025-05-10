@@ -1,0 +1,1554 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "sentence": "The bat flew around the cave.",
+        "highlightedWord": "bat",
+        "options": [
+          {
+            "id": "a",
+            "text": "A flying mammal",
+            "isCorrect": true,
+            "explanation": "In this context, 'bat' refers to the nocturnal flying mammal that uses echolocation to navigate."
+          },
+          {
+            "id": "b",
+            "text": "A wooden stick for hitting balls",
+            "isCorrect": false,
+            "explanation": "While 'bat' can refer to a sports implement, this meaning doesn't fit the context of flying in a cave."
+          },
+          {
+            "id": "c",
+            "text": "To hit or strike something",
+            "isCorrect": false,
+            "explanation": "Although 'bat' can be used as a verb meaning to hit, the sentence structure uses it as a noun that performs the action of flying."
+          },
+          {
+            "id": "d",
+            "text": "To flutter one's eyelashes",
+            "isCorrect": false,
+            "explanation": "While 'bat' can be used in the phrase 'bat your eyelashes,' this meaning doesn't fit in the context of the full sentence."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "sentence": "She will address the audience at noon.",
+        "highlightedWord": "address",
+        "options": [
+          {
+            "id": "a",
+            "text": "To speak to or make a speech",
+            "isCorrect": true,
+            "explanation": "In this context, 'address' means to speak to a group of people, particularly in a formal way."
+          },
+          {
+            "id": "b",
+            "text": "A location or place of residence",
+            "isCorrect": false,
+            "explanation": "While 'address' can refer to where someone lives, this meaning doesn't fit with addressing an audience."
+          },
+          {
+            "id": "c",
+            "text": "To fix a problem",
+            "isCorrect": false,
+            "explanation": "Although 'address' can mean to deal with or fix an issue, the presence of 'audience' indicates that speaking is the intended meaning."
+          },
+          {
+            "id": "d",
+            "text": "To write someone's details on an envelope",
+            "isCorrect": false,
+            "explanation": "While 'address' can refer to writing delivery information on mail, this doesn't make sense in the context of an audience."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "sentence": "The spring is usually beautiful in this park.",
+        "highlightedWord": "spring",
+        "options": [
+          {
+            "id": "a",
+            "text": "A season between winter and summer",
+            "isCorrect": true,
+            "explanation": "In this context, 'spring' refers to the season when plants begin to grow after winter."
+          },
+          {
+            "id": "b",
+            "text": "A coiled piece of metal",
+            "isCorrect": false,
+            "explanation": "While 'spring' can refer to a coiled metal object, this meaning doesn't make sense when describing something beautiful in a park."
+          },
+          {
+            "id": "c",
+            "text": "A natural water source",
+            "isCorrect": false,
+            "explanation": "Although 'spring' can refer to a water source, the sentence uses 'is' instead of 'there is' which suggests the season."
+          },
+          {
+            "id": "d",
+            "text": "To jump or leap suddenly",
+            "isCorrect": false,
+            "explanation": "While 'spring' can be a verb meaning to jump, the sentence structure uses it as a noun that 'is beautiful.'"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "sentence": "We need to book our vacation soon.",
+        "highlightedWord": "book",
+        "options": [
+          {
+            "id": "a",
+            "text": "To reserve or make an arrangement",
+            "isCorrect": true,
+            "explanation": "In this context, 'book' means to reserve or secure something in advance, like making travel arrangements."
+          },
+          {
+            "id": "b",
+            "text": "A written or printed work",
+            "isCorrect": false,
+            "explanation": "While 'book' commonly refers to a collection of pages with writing, this meaning doesn't fit with booking a vacation."
+          },
+          {
+            "id": "c",
+            "text": "To record charges against someone",
+            "isCorrect": false,
+            "explanation": "Although police can 'book' suspects, this legal meaning doesn't make sense in the context of vacations."
+          },
+          {
+            "id": "d",
+            "text": "To run very quickly",
+            "isCorrect": false,
+            "explanation": "While 'book it' can be slang for running quickly, this meaning doesn't work with the phrase 'book our vacation.'"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "sentence": "Can you draw the curtains? It's too bright.",
+        "highlightedWord": "draw",
+        "options": [
+          {
+            "id": "a",
+            "text": "To pull or move something",
+            "isCorrect": true,
+            "explanation": "In this context, 'draw' means to pull the curtains closed to block out light."
+          },
+          {
+            "id": "b",
+            "text": "To create a picture",
+            "isCorrect": false,
+            "explanation": "While 'draw' commonly means to create an image, this meaning doesn't make sense with curtains when it's too bright."
+          },
+          {
+            "id": "c",
+            "text": "To take cards from a pile",
+            "isCorrect": false,
+            "explanation": "Although 'draw' can mean to take a card in games, this meaning is unrelated to curtains or brightness."
+          },
+          {
+            "id": "d",
+            "text": "To attract attention",
+            "isCorrect": false,
+            "explanation": "While 'draw' can mean to attract something, the mention of brightness suggests the curtains need to be closed."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "sentence": "The band will play in the park tonight.",
+        "highlightedWord": "band",
+        "options": [
+          {
+            "id": "a",
+            "text": "A group of musicians",
+            "isCorrect": true,
+            "explanation": "In this context, 'band' refers to a group of people who play music together."
+          },
+          {
+            "id": "b",
+            "text": "A strip of material",
+            "isCorrect": false,
+            "explanation": "While 'band' can refer to a strip of material, this meaning doesn't make sense with 'will play in the park.'"
+          },
+          {
+            "id": "c",
+            "text": "A ring worn on a finger",
+            "isCorrect": false,
+            "explanation": "Although 'band' can refer to a ring like a wedding band, this meaning doesn't fit with playing in a park."
+          },
+          {
+            "id": "d",
+            "text": "A range of radio frequencies",
+            "isCorrect": false,
+            "explanation": "While 'band' can refer to radio frequencies, this technical meaning doesn't make sense in the context of a park performance."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "sentence": "She had to watch her step on the icy path.",
+        "highlightedWord": "watch",
+        "options": [
+          {
+            "id": "a",
+            "text": "To be careful about or pay attention to",
+            "isCorrect": true,
+            "explanation": "In this context, 'watch' means to be careful or pay close attention to where one is stepping."
+          },
+          {
+            "id": "b",
+            "text": "A timepiece worn on the wrist",
+            "isCorrect": false,
+            "explanation": "While 'watch' commonly refers to a timekeeper worn on the wrist, this meaning doesn't fit with watching one's step."
+          },
+          {
+            "id": "c",
+            "text": "To observe or look at",
+            "isCorrect": false,
+            "explanation": "Although 'watch' can mean to observe, the phrase 'watch one's step' specifically means to be careful, not just to look at one's feet."
+          },
+          {
+            "id": "d",
+            "text": "To guard or protect",
+            "isCorrect": false,
+            "explanation": "While 'watch' can mean to guard something, this meaning doesn't fit with the phrase 'watch her step' on an icy path."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "sentence": "The rose has a wonderful scent.",
+        "highlightedWord": "rose",
+        "options": [
+          {
+            "id": "a",
+            "text": "A fragrant flower",
+            "isCorrect": true,
+            "explanation": "In this context, 'rose' refers to the flowering plant known for its beauty and fragrance."
+          },
+          {
+            "id": "b",
+            "text": "To get up from a seated position",
+            "isCorrect": false,
+            "explanation": "While 'rose' can be the past tense of 'rise', this verbal meaning doesn't fit with having a scent."
+          },
+          {
+            "id": "c",
+            "text": "A pinkish-red color",
+            "isCorrect": false,
+            "explanation": "Although 'rose' can refer to a color, colors themselves don't have scents, so this meaning doesn't fit the context."
+          },
+          {
+            "id": "d",
+            "text": "Past tense of 'rise'",
+            "isCorrect": false,
+            "explanation": "While 'rose' is the past tense of 'rise', this meaning doesn't fit with having a scent."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "sentence": "The leaves will fall soon as autumn approaches.",
+        "highlightedWord": "fall",
+        "options": [
+          {
+            "id": "a",
+            "text": "To drop from a higher to a lower place",
+            "isCorrect": true,
+            "explanation": "In this context, 'fall' refers to leaves dropping from trees, which happens in autumn."
+          },
+          {
+            "id": "b",
+            "text": "The season after summer",
+            "isCorrect": false,
+            "explanation": "While 'fall' can refer to the autumn season, in this sentence autumn is mentioned separately, so 'fall' is being used as a verb."
+          },
+          {
+            "id": "c",
+            "text": "A decrease in value",
+            "isCorrect": false,
+            "explanation": "Although 'fall' can refer to a decrease or decline, this meaning doesn't fit when discussing leaves and autumn."
+          },
+          {
+            "id": "d",
+            "text": "A waterfall",
+            "isCorrect": false,
+            "explanation": "While 'fall' can be part of the word 'waterfall', this meaning doesn't make sense in the context of leaves and seasons."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "sentence": "We saw a crane at the construction site.",
+        "highlightedWord": "crane",
+        "options": [
+          {
+            "id": "a",
+            "text": "A tall machine used for moving heavy objects",
+            "isCorrect": true,
+            "explanation": "In this context, 'crane' refers to the large machine used at construction sites to lift and move heavy materials."
+          },
+          {
+            "id": "b",
+            "text": "A large wading bird",
+            "isCorrect": false,
+            "explanation": "While 'crane' can refer to a type of bird, it would be unusual to see this bird at a construction site."
+          },
+          {
+            "id": "c",
+            "text": "To stretch your neck",
+            "isCorrect": false,
+            "explanation": "Although 'crane' can be a verb meaning to stretch one's neck to see better, the sentence structure uses it as a noun that was seen."
+          },
+          {
+            "id": "d",
+            "text": "To strain to see something",
+            "isCorrect": false,
+            "explanation": "While 'crane' can be used as a verb meaning to strain to see, it's used as a noun in this sentence."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "sentence": "The pitcher threw a perfect strike.",
+        "highlightedWord": "pitcher",
+        "options": [
+          {
+            "id": "a",
+            "text": "A baseball player who throws the ball",
+            "isCorrect": true,
+            "explanation": "In this context, 'pitcher' refers to the player in baseball whose role is to throw the ball to the batter."
+          },
+          {
+            "id": "b",
+            "text": "A container for holding liquids",
+            "isCorrect": false,
+            "explanation": "While 'pitcher' can refer to a container for pouring liquids, this meaning doesn't fit with throwing a strike."
+          },
+          {
+            "id": "c",
+            "text": "A salesperson",
+            "isCorrect": false,
+            "explanation": "Although 'pitcher' can refer to someone who pitches sales ideas, this meaning doesn't fit with throwing a strike."
+          },
+          {
+            "id": "d",
+            "text": "A type of plant",
+            "isCorrect": false,
+            "explanation": "While 'pitcher plant' is a type of carnivorous plant, this meaning doesn't make sense with throwing a strike."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "sentence": "We need to charge the battery before we leave.",
+        "highlightedWord": "charge",
+        "options": [
+          {
+            "id": "a",
+            "text": "To supply with electrical energy",
+            "isCorrect": true,
+            "explanation": "In this context, 'charge' means to supply a battery with electrical energy so it can function."
+          },
+          {
+            "id": "b",
+            "text": "To rush forward in attack",
+            "isCorrect": false,
+            "explanation": "While 'charge' can mean to rush forward aggressively, this meaning doesn't make sense with a battery."
+          },
+          {
+            "id": "c",
+            "text": "To officially accuse of a crime",
+            "isCorrect": false,
+            "explanation": "Although 'charge' can mean to formally accuse someone, this legal meaning doesn't fit with a battery."
+          },
+          {
+            "id": "d",
+            "text": "A fee or payment",
+            "isCorrect": false,
+            "explanation": "While 'charge' can refer to an amount of money requested for a service, this doesn't make sense with needing to do something to a battery."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "sentence": "The jam on the highway made us late.",
+        "highlightedWord": "jam",
+        "options": [
+          {
+            "id": "a",
+            "text": "A traffic congestion",
+            "isCorrect": true,
+            "explanation": "In this context, 'jam' refers to a traffic congestion where vehicles are unable to move freely."
+          },
+          {
+            "id": "b",
+            "text": "A sweet spread made from fruit",
+            "isCorrect": false,
+            "explanation": "While 'jam' commonly refers to a fruit preserve, this meaning doesn't make sense on a highway making people late."
+          },
+          {
+            "id": "c",
+            "text": "A musical session with improvisation",
+            "isCorrect": false,
+            "explanation": "Although 'jam' can refer to musicians playing together informally, this meaning doesn't fit with a highway and being late."
+          },
+          {
+            "id": "d",
+            "text": "To force something into a tight space",
+            "isCorrect": false,
+            "explanation": "While 'jam' can mean to force something into a space, the context of being on a highway and causing lateness suggests traffic congestion."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "sentence": "The coach will train the new players tomorrow.",
+        "highlightedWord": "coach",
+        "options": [
+          {
+            "id": "a",
+            "text": "A person who trains athletes",
+            "isCorrect": true,
+            "explanation": "In this context, 'coach' refers to a person who helps athletes improve their skills through training and guidance."
+          },
+          {
+            "id": "b",
+            "text": "A bus used for longer journeys",
+            "isCorrect": false,
+            "explanation": "While 'coach' can refer to a type of bus, this meaning doesn't fit with training players."
+          },
+          {
+            "id": "c",
+            "text": "The part of a train for passengers",
+            "isCorrect": false,
+            "explanation": "Although 'coach' can refer to a passenger car on a train, this meaning doesn't make sense with training players."
+          },
+          {
+            "id": "d",
+            "text": "To give private academic lessons",
+            "isCorrect": false,
+            "explanation": "While 'coach' can mean to give tutoring, the context of players suggests sports training rather than academic instruction."
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "sentence": "The bark of the tree was rough and thick.",
+        "highlightedWord": "bark",
+        "options": [
+          {
+            "id": "a",
+            "text": "The outer covering of a tree trunk",
+            "isCorrect": true,
+            "explanation": "In this context, 'bark' refers to the tough protective outer layer that covers tree trunks and branches."
+          },
+          {
+            "id": "b",
+            "text": "The sound a dog makes",
+            "isCorrect": false,
+            "explanation": "While 'bark' commonly refers to the sound a dog makes, this meaning doesn't make sense when describing something rough and thick on a tree."
+          },
+          {
+            "id": "c",
+            "text": "A small sailing ship",
+            "isCorrect": false,
+            "explanation": "Although 'bark' or 'barque' can refer to a type of sailing vessel, this meaning doesn't fit with being part of a tree."
+          },
+          {
+            "id": "d",
+            "text": "To shout commands abruptly",
+            "isCorrect": false,
+            "explanation": "While 'bark' can be a verb meaning to shout sharply, the sentence structure uses it as a noun belonging to a tree."
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "sentence": "She couldn't bear the thought of leaving her hometown.",
+        "highlightedWord": "bear",
+        "options": [
+          {
+            "id": "a",
+            "text": "To endure or tolerate",
+            "isCorrect": true,
+            "explanation": "In this context, 'bear' means to endure or tolerate an unpleasant or painful situation or feeling."
+          },
+          {
+            "id": "b",
+            "text": "A large mammal with thick fur",
+            "isCorrect": false,
+            "explanation": "While 'bear' commonly refers to the animal, this meaning doesn't fit with the thought of leaving a hometown."
+          },
+          {
+            "id": "c",
+            "text": "To carry or support weight",
+            "isCorrect": false,
+            "explanation": "Although 'bear' can mean to carry something physically, the sentence is about an emotional rather than physical burden."
+          },
+          {
+            "id": "d",
+            "text": "To give birth to",
+            "isCorrect": false,
+            "explanation": "While 'bear' can mean to give birth, this meaning doesn't make sense with the thought of leaving a hometown."
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "sentence": "The play was fair, but not excellent.",
+        "highlightedWord": "play",
+        "options": [
+          {
+            "id": "a",
+            "text": "A dramatic performance on stage",
+            "isCorrect": true,
+            "explanation": "In this context, 'play' refers to a theatrical performance, which can be judged on its quality."
+          },
+          {
+            "id": "b",
+            "text": "To engage in activity for enjoyment",
+            "isCorrect": false,
+            "explanation": "While 'play' can be a verb meaning to engage in an activity for fun, the sentence structure uses it as a noun that can be evaluated."
+          },
+          {
+            "id": "c",
+            "text": "A strategic move in a game",
+            "isCorrect": false,
+            "explanation": "Although 'play' can refer to a particular move in a game, the use of 'was fair' suggests a broader performance being evaluated."
+          },
+          {
+            "id": "d",
+            "text": "Freedom or room for movement",
+            "isCorrect": false,
+            "explanation": "While 'play' can refer to the amount of movement possible (like 'play in a rope'), this meaning doesn't fit with being fair but not excellent."
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "sentence": "I need to file these papers before I leave.",
+        "highlightedWord": "file",
+        "options": [
+          {
+            "id": "a",
+            "text": "To place documents in an organized way",
+            "isCorrect": true,
+            "explanation": "In this context, 'file' means to organize papers in a systematic way for storage and retrieval."
+          },
+          {
+            "id": "b",
+            "text": "A tool for smoothing or shaping",
+            "isCorrect": false,
+            "explanation": "While 'file' can refer to a tool used to smooth rough edges, this meaning doesn't make sense with papers."
+          },
+          {
+            "id": "c",
+            "text": "A line of people walking one behind another",
+            "isCorrect": false,
+            "explanation": "Although 'file' can refer to a line of people, this meaning doesn't fit with something done to papers."
+          },
+          {
+            "id": "d",
+            "text": "A collection of data stored together",
+            "isCorrect": false,
+            "explanation": "While 'file' can refer to a digital document, the mention of papers suggests physical documents being organized rather than digital ones."
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "sentence": "The runner was fast approaching the finish line.",
+        "highlightedWord": "fast",
+        "options": [
+          {
+            "id": "a",
+            "text": "Moving or able to move quickly",
+            "isCorrect": true,
+            "explanation": "In this context, 'fast' means that the runner was moving at high speed toward the finish line."
+          },
+          {
+            "id": "b",
+            "text": "To abstain from food",
+            "isCorrect": false,
+            "explanation": "While 'fast' can mean to abstain from eating food, this meaning doesn't fit with approaching a finish line."
+          },
+          {
+            "id": "c",
+            "text": "Firmly fixed or attached",
+            "isCorrect": false,
+            "explanation": "Although 'fast' can mean firmly fixed (like 'held fast'), this meaning doesn't make sense with approaching a finish line."
+          },
+          {
+            "id": "d",
+            "text": "A period of not eating",
+            "isCorrect": false,
+            "explanation": "While 'fast' can be a noun referring to a period without food, the sentence structure uses it as an adverb describing how the runner was approaching."
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "sentence": "The duck swam across the pond.",
+        "highlightedWord": "duck",
+        "options": [
+          {
+            "id": "a",
+            "text": "A waterbird with webbed feet",
+            "isCorrect": true,
+            "explanation": "In this context, 'duck' refers to the aquatic bird with webbed feet that swims in ponds and lakes."
+          },
+          {
+            "id": "b",
+            "text": "To lower one's head quickly",
+            "isCorrect": false,
+            "explanation": "While 'duck' can be a verb meaning to lower your head quickly, the sentence structure uses it as a noun that performs the action of swimming."
+          },
+          {
+            "id": "c",
+            "text": "A strong cotton fabric",
+            "isCorrect": false,
+            "explanation": "Although 'duck' can refer to a type of cotton fabric, this meaning doesn't fit with swimming across a pond."
+          },
+          {
+            "id": "d",
+            "text": "To avoid something",
+            "isCorrect": false,
+            "explanation": "While 'duck' can mean to avoid something, this meaning doesn't make sense with swimming across a pond."
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "sentence": "Let's go back to the main point of our discussion.",
+        "highlightedWord": "point",
+        "options": [
+          {
+            "id": "a",
+            "text": "The main idea or purpose",
+            "isCorrect": true,
+            "explanation": "In this context, 'point' refers to the main idea or central topic being discussed."
+          },
+          {
+            "id": "b",
+            "text": "A sharp end of something",
+            "isCorrect": false,
+            "explanation": "While 'point' commonly refers to a sharp tip, this physical meaning doesn't fit in a discussion context."
+          },
+          {
+            "id": "c",
+            "text": "A unit in scoring a game",
+            "isCorrect": false,
+            "explanation": "Although 'point' can refer to a scoring unit in games, this meaning doesn't fit with a discussion."
+          },
+          {
+            "id": "d",
+            "text": "A specific moment in time",
+            "isCorrect": false,
+            "explanation": "While 'point' can refer to a moment in time, the phrase 'main point of our discussion' suggests a central idea rather than a time reference."
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "sentence": "The pen wouldn't work because it was out of ink.",
+        "highlightedWord": "pen",
+        "options": [
+          {
+            "id": "a",
+            "text": "A writing instrument",
+            "isCorrect": true,
+            "explanation": "In this context, 'pen' refers to the writing tool that uses ink to mark paper."
+          },
+          {
+            "id": "b",
+            "text": "An enclosure for animals",
+            "isCorrect": false,
+            "explanation": "While 'pen' can refer to an enclosure for animals, this meaning doesn't fit with being out of ink."
+          },
+          {
+            "id": "c",
+            "text": "A female swan",
+            "isCorrect": false,
+            "explanation": "Although 'pen' can refer to a female swan, this meaning doesn't make sense with being out of ink."
+          },
+          {
+            "id": "d",
+            "text": "To write or compose",
+            "isCorrect": false,
+            "explanation": "While 'pen' can be a verb meaning to write something, the sentence structure uses it as a noun that contains ink."
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "sentence": "The ring of the doorbell startled me.",
+        "highlightedWord": "ring",
+        "options": [
+          {
+            "id": "a",
+            "text": "A sound from a bell",
+            "isCorrect": true,
+            "explanation": "In this context, 'ring' refers to the sound made by a doorbell when someone presses it."
+          },
+          {
+            "id": "b",
+            "text": "A circular band worn on a finger",
+            "isCorrect": false,
+            "explanation": "While 'ring' commonly refers to jewelry worn on a finger, this meaning doesn't fit with a doorbell or startling someone."
+          },
+          {
+            "id": "c",
+            "text": "A circular area for sports contests",
+            "isCorrect": false,
+            "explanation": "Although 'ring' can refer to an area for boxing or other sports, this meaning doesn't make sense with a doorbell."
+          },
+          {
+            "id": "d",
+            "text": "A group of people working together secretly",
+            "isCorrect": false,
+            "explanation": "While 'ring' can refer to a group of people involved in illegal activities, this meaning doesn't fit with a doorbell startling someone."
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "sentence": "The park was full of children flying kites.",
+        "highlightedWord": "park",
+        "options": [
+          {
+            "id": "a",
+            "text": "A public recreational area",
+            "isCorrect": true,
+            "explanation": "In this context, 'park' refers to a public outdoor area with grass and trees where people can relax and play."
+          },
+          {
+            "id": "b",
+            "text": "To leave a vehicle in a specific place",
+            "isCorrect": false,
+            "explanation": "While 'park' can be a verb meaning to leave a vehicle in a specific place, the sentence structure uses it as a noun where children are flying kites."
+          },
+          {
+            "id": "c",
+            "text": "A position in gears where the engine is disconnected",
+            "isCorrect": false,
+            "explanation": "Although 'park' can refer to a gear position in a vehicle, this meaning doesn't fit with children flying kites."
+          },
+          {
+            "id": "d",
+            "text": "To officially protect an area of land",
+            "isCorrect": false,
+            "explanation": "While 'park' can be a verb meaning to designate land as protected, the sentence uses it as a noun describing a location."
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "sentence": "The water in the well was clear and cold.",
+        "highlightedWord": "well",
+        "options": [
+          {
+            "id": "a",
+            "text": "A deep hole in the ground for water",
+            "isCorrect": true,
+            "explanation": "In this context, 'well' refers to a deep hole dug in the ground to access underground water."
+          },
+          {
+            "id": "b",
+            "text": "In a good or satisfactory way",
+            "isCorrect": false,
+            "explanation": "While 'well' can be an adverb meaning in a good way, the sentence structure uses it as a noun containing water."
+          },
+          {
+            "id": "c",
+            "text": "In good health",
+            "isCorrect": false,
+            "explanation": "Although 'well' can mean being in good health, this meaning doesn't fit with water being in it."
+          },
+          {
+            "id": "d",
+            "text": "To a great extent",
+            "isCorrect": false,
+            "explanation": "While 'well' can be used as an adverb indicating a considerable degree, the sentence uses it as a noun that contains water."
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "sentence": "The light was too bright for my eyes.",
+        "highlightedWord": "light",
+        "options": [
+          {
+            "id": "a",
+            "text": "The natural agent that stimulates sight",
+            "isCorrect": true,
+            "explanation": "In this context, 'light' refers to the form of energy that makes things visible and can be too intense for eyes."
+          },
+          {
+            "id": "b",
+            "text": "Not heavy",
+            "isCorrect": false,
+            "explanation": "While 'light' can mean having little weight, this meaning doesn't make sense with being bright or affecting eyes."
+          },
+          {
+            "id": "c",
+            "text": "A device that produces illumination",
+            "isCorrect": false,
+            "explanation": "Although 'light' can refer to a lamp or fixture, the sentence is referring to the brightness itself, not the source."
+          },
+          {
+            "id": "d",
+            "text": "To ignite or set fire to",
+            "isCorrect": false,
+            "explanation": "While 'light' can be a verb meaning to ignite something, the sentence structure uses it as a noun that has brightness."
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "sentence": "The model will demonstrate how the machine works.",
+        "highlightedWord": "model",
+        "options": [
+          {
+            "id": "a",
+            "text": "A person who explains or shows how something works",
+            "isCorrect": true,
+            "explanation": "In this context, 'model' refers to a person who demonstrates or explains something, like a product demonstrator."
+          },
+          {
+            "id": "b",
+            "text": "A small copy of something",
+            "isCorrect": false,
+            "explanation": "While 'model' can refer to a miniature version of something, the verb 'demonstrate' suggests a person performing an action rather than an object."
+          },
+          {
+            "id": "c",
+            "text": "A person who wears clothing for display",
+            "isCorrect": false,
+            "explanation": "Although 'model' can refer to someone who displays fashion, this meaning doesn't fit with demonstrating how a machine works."
+          },
+          {
+            "id": "d",
+            "text": "A particular design or version of a product",
+            "isCorrect": false,
+            "explanation": "While 'model' can refer to a specific version of a product, the verb 'demonstrate' suggests the model is a person performing an action."
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "sentence": "He couldn't stomach the sight of blood.",
+        "highlightedWord": "stomach",
+        "options": [
+          {
+            "id": "a",
+            "text": "To tolerate or endure",
+            "isCorrect": true,
+            "explanation": "In this context, 'stomach' is used as a verb meaning to tolerate or bear something unpleasant."
+          },
+          {
+            "id": "b",
+            "text": "The digestive organ in the body",
+            "isCorrect": false,
+            "explanation": "While 'stomach' commonly refers to the digestive organ, here it's used as a verb rather than a noun."
+          },
+          {
+            "id": "c",
+            "text": "To eat or consume",
+            "isCorrect": false,
+            "explanation": "Although related to eating, 'stomach' in this sentence isn't about consuming but about tolerating the sight of something."
+          },
+          {
+            "id": "d",
+            "text": "To consider carefully",
+            "isCorrect": false,
+            "explanation": "This is not a common meaning of 'stomach' and doesn't fit the context of reacting to the sight of blood."
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "sentence": "The judge will rule on this case tomorrow.",
+        "highlightedWord": "rule",
+        "options": [
+          {
+            "id": "a",
+            "text": "To make an official decision",
+            "isCorrect": true,
+            "explanation": "In this context, 'rule' means to make an authoritative decision or judgment, especially in a legal setting."
+          },
+          {
+            "id": "b",
+            "text": "A standard or principle",
+            "isCorrect": false,
+            "explanation": "While 'rule' can refer to a guideline or principle, the sentence structure uses it as a verb that a judge performs."
+          },
+          {
+            "id": "c",
+            "text": "To exercise control over",
+            "isCorrect": false,
+            "explanation": "Although 'rule' can mean to govern or control, in legal contexts with 'rule on' it specifically means making a decision about a case."
+          },
+          {
+            "id": "d",
+            "text": "A straight edge used for drawing lines",
+            "isCorrect": false,
+            "explanation": "While 'rule' can refer to a measuring tool, this meaning doesn't make sense with a judge and a legal case."
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "sentence": "We had to scale the wall to escape.",
+        "highlightedWord": "scale",
+        "options": [
+          {
+            "id": "a",
+            "text": "To climb up or over something",
+            "isCorrect": true,
+            "explanation": "In this context, 'scale' means to climb up or over a vertical surface like a wall."
+          },
+          {
+            "id": "b",
+            "text": "A series of musical notes",
+            "isCorrect": false,
+            "explanation": "While 'scale' can refer to a sequence of musical notes, this meaning doesn't fit with climbing a wall to escape."
+          },
+          {
+            "id": "c",
+            "text": "An instrument for weighing",
+            "isCorrect": false,
+            "explanation": "Although 'scale' can refer to a weighing device, this meaning doesn't make sense with a wall and escaping."
+          },
+          {
+            "id": "d",
+            "text": "The proportion of a model to the actual object",
+            "isCorrect": false,
+            "explanation": "While 'scale' can refer to the ratio of a model's size to the real thing, this meaning doesn't fit with a wall and escaping."
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "sentence": "The principal called an emergency meeting.",
+        "highlightedWord": "principal",
+        "options": [
+          {
+            "id": "a",
+            "text": "The head of a school",
+            "isCorrect": true,
+            "explanation": "In this context, 'principal' refers to the person in charge of a school who has the authority to call meetings."
+          },
+          {
+            "id": "b",
+            "text": "Main or most important",
+            "isCorrect": false,
+            "explanation": "While 'principal' can be an adjective meaning main or primary, the sentence structure uses it as a noun that performs the action of calling a meeting."
+          },
+          {
+            "id": "c",
+            "text": "A sum of money lent or invested",
+            "isCorrect": false,
+            "explanation": "Although 'principal' can refer to a sum of money, this financial meaning doesn't fit with calling a meeting."
+          },
+          {
+            "id": "d",
+            "text": "A fundamental truth or proposition",
+            "isCorrect": false,
+            "explanation": "While 'principle' (note the spelling difference) refers to a fundamental truth, this meaning doesn't fit with calling a meeting, and the spelling is different."
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "sentence": "The story was set in the future.",
+        "highlightedWord": "set",
+        "options": [
+          {
+            "id": "a",
+            "text": "Placed or situated in time or place",
+            "isCorrect": true,
+            "explanation": "In this context, 'set' means the story takes place or is situated in a future time period."
+          },
+          {
+            "id": "b",
+            "text": "A group of similar things",
+            "isCorrect": false,
+            "explanation": "While 'set' can refer to a group of similar items, this meaning doesn't fit with a story being located in the future."
+          },
+          {
+            "id": "c",
+            "text": "To put something in a specified position",
+            "isCorrect": false,
+            "explanation": "Although 'set' can be an active verb meaning to place something, here it's used in the passive voice to indicate where the story takes place."
+          },
+          {
+            "id": "d",
+            "text": "The equipment for a particular activity",
+            "isCorrect": false,
+            "explanation": "While 'set' can refer to equipment (like a television set), this meaning doesn't make sense with a story and the future."
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "sentence": "The artist will display her new works tomorrow.",
+        "highlightedWord": "display",
+        "options": [
+          {
+            "id": "a",
+            "text": "To show or exhibit publicly",
+            "isCorrect": true,
+            "explanation": "In this context, 'display' means to show or exhibit artwork for public viewing."
+          },
+          {
+            "id": "b",
+            "text": "A screen for showing information",
+            "isCorrect": false,
+            "explanation": "While 'display' can refer to a screen or monitor, the sentence structure uses it as a verb that the artist performs."
+          },
+          {
+            "id": "c",
+            "text": "A show of emotion",
+            "isCorrect": false,
+            "explanation": "Although 'display' can refer to showing emotions, the context of an artist with works suggests exhibiting artwork."
+          },
+          {
+            "id": "d",
+            "text": "The way goods are arranged in a store",
+            "isCorrect": false,
+            "explanation": "While 'display' can refer to how items are arranged in a store, the sentence is about an artist showing their works rather than merchandising."
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "sentence": "The palm trees swayed in the breeze.",
+        "highlightedWord": "palm",
+        "options": [
+          {
+            "id": "a",
+            "text": "A type of tropical tree",
+            "isCorrect": true,
+            "explanation": "In this context, 'palm' refers to a type of tropical tree with a straight trunk and large, fan-shaped or feathery leaves."
+          },
+          {
+            "id": "b",
+            "text": "The inner surface of the hand",
+            "isCorrect": false,
+            "explanation": "While 'palm' commonly refers to the inner part of a hand, this meaning doesn't fit with trees swaying in the breeze."
+          },
+          {
+            "id": "c",
+            "text": "To conceal something in the hand",
+            "isCorrect": false,
+            "explanation": "Although 'palm' can be a verb meaning to hide something in your hand, this meaning doesn't make sense with trees and a breeze."
+          },
+          {
+            "id": "d",
+            "text": "A symbol of victory or success",
+            "isCorrect": false,
+            "explanation": "While palm branches can symbolize victory, the sentence is describing actual trees moving in the wind rather than a symbolic meaning."
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "sentence": "We saw a school of fish near the coral reef.",
+        "highlightedWord": "school",
+        "options": [
+          {
+            "id": "a",
+            "text": "A large group of fish swimming together",
+            "isCorrect": true,
+            "explanation": "In this context, 'school' refers to a group of fish swimming together, often in the same direction."
+          },
+          {
+            "id": "b",
+            "text": "An institution for education",
+            "isCorrect": false,
+            "explanation": "While 'school' commonly refers to an educational institution, this meaning doesn't fit with fish near a coral reef."
+          },
+          {
+            "id": "c",
+            "text": "To train or teach someone",
+            "isCorrect": false,
+            "explanation": "Although 'school' can be a verb meaning to train or educate, the sentence structure uses it as a noun describing a group of fish."
+          },
+          {
+            "id": "d",
+            "text": "A style or approach in art or thought",
+            "isCorrect": false,
+            "explanation": "While 'school' can refer to a particular style or approach (like 'the Impressionist school'), this meaning doesn't make sense with fish and coral."
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "sentence": "His novel will appeal to teenagers.",
+        "highlightedWord": "appeal",
+        "options": [
+          {
+            "id": "a",
+            "text": "To be attractive or interesting",
+            "isCorrect": true,
+            "explanation": "In this context, 'appeal' means to be interesting or attractive to a particular audience."
+          },
+          {
+            "id": "b",
+            "text": "A request for help",
+            "isCorrect": false,
+            "explanation": "While 'appeal' can refer to a serious request for help or support, this meaning doesn't fit with a novel and teenagers."
+          },
+          {
+            "id": "c",
+            "text": "A legal challenge to a decision",
+            "isCorrect": false,
+            "explanation": "Although 'appeal' can refer to a legal process challenging a court decision, this meaning doesn't make sense with a novel."
+          },
+          {
+            "id": "d",
+            "text": "To ask earnestly for something",
+            "isCorrect": false,
+            "explanation": "While 'appeal' can be a verb meaning to make a serious request, the sentence structure suggests something being attractive to teenagers rather than making a request."
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "sentence": "The date on the milk carton shows it's still fresh.",
+        "highlightedWord": "date",
+        "options": [
+          {
+            "id": "a",
+            "text": "A specific day of a month or year",
+            "isCorrect": true,
+            "explanation": "In this context, 'date' refers to the calendar day printed on food products to indicate freshness or expiration."
+          },
+          {
+            "id": "b",
+            "text": "A sweet dried fruit",
+            "isCorrect": false,
+            "explanation": "While 'date' can refer to a type of dried fruit, this meaning doesn't fit with being on a milk carton or indicating freshness."
+          },
+          {
+            "id": "c",
+            "text": "A social or romantic appointment",
+            "isCorrect": false,
+            "explanation": "Although 'date' can refer to a romantic meeting, this meaning doesn't make sense with a milk carton and freshness."
+          },
+          {
+            "id": "d",
+            "text": "To determine the age of something",
+            "isCorrect": false,
+            "explanation": "While 'date' can be a verb meaning to establish the age of something, the sentence structure uses it as a noun printed on the carton."
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "sentence": "The fan helped to cool the room.",
+        "highlightedWord": "fan",
+        "options": [
+          {
+            "id": "a",
+            "text": "A device that moves air for cooling",
+            "isCorrect": true,
+            "explanation": "In this context, 'fan' refers to a device with rotating blades that circulates air to create a cooling effect."
+          },
+          {
+            "id": "b",
+            "text": "An enthusiastic admirer",
+            "isCorrect": false,
+            "explanation": "While 'fan' can refer to a person who admires someone or something, this meaning doesn't fit with cooling a room."
+          },
+          {
+            "id": "c",
+            "text": "To spread out in a semicircular shape",
+            "isCorrect": false,
+            "explanation": "Although 'fan' can be a verb meaning to spread something out, this meaning doesn't make sense with cooling a room."
+          },
+          {
+            "id": "d",
+            "text": "To increase a flame",
+            "isCorrect": false,
+            "explanation": "While 'fan' can mean to encourage a flame to grow, this meaning contradicts the cooling effect mentioned in the sentence."
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "sentence": "The speaker will present the main finding of the research.",
+        "highlightedWord": "present",
+        "options": [
+          {
+            "id": "a",
+            "text": "To show or explain something formally",
+            "isCorrect": true,
+            "explanation": "In this context, 'present' means to formally share or explain findings to an audience."
+          },
+          {
+            "id": "b",
+            "text": "Existing or occurring now",
+            "isCorrect": false,
+            "explanation": "While 'present' can be an adjective meaning current or existing now, the sentence structure uses it as a verb that the speaker performs."
+          },
+          {
+            "id": "c",
+            "text": "A gift",
+            "isCorrect": false,
+            "explanation": "Although 'present' can refer to a gift, this meaning doesn't fit with a speaker and research findings."
+          },
+          {
+            "id": "d",
+            "text": "In a particular place",
+            "isCorrect": false,
+            "explanation": "While 'present' can mean being in a particular place (as in 'all members present'), the sentence uses it as a verb related to sharing information."
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "sentence": "The politician tried to duck the difficult question.",
+        "highlightedWord": "duck",
+        "options": [
+          {
+            "id": "a",
+            "text": "To avoid or evade",
+            "isCorrect": true,
+            "explanation": "In this context, 'duck' means to avoid dealing with something challenging or uncomfortable."
+          },
+          {
+            "id": "b",
+            "text": "A waterbird with webbed feet",
+            "isCorrect": false,
+            "explanation": "While 'duck' commonly refers to the aquatic bird, this meaning doesn't fit with a politician and a question."
+          },
+          {
+            "id": "c",
+            "text": "To lower one's head quickly",
+            "isCorrect": false,
+            "explanation": "Although 'duck' can mean to lower one's head to avoid something, in this figurative context it means to avoid answering a question rather than a physical movement."
+          },
+          {
+            "id": "d",
+            "text": "A strong cotton fabric",
+            "isCorrect": false,
+            "explanation": "While 'duck' can refer to a type of cotton fabric, this meaning doesn't make sense with a politician and a question."
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "sentence": "The shop will close at midnight.",
+        "highlightedWord": "close",
+        "options": [
+          {
+            "id": "a",
+            "text": "To shut or stop operating",
+            "isCorrect": true,
+            "explanation": "In this context, 'close' means that the shop will stop operating and shut its doors at the specified time."
+          },
+          {
+            "id": "b",
+            "text": "Near in space or time",
+            "isCorrect": false,
+            "explanation": "While 'close' can be an adjective meaning nearby, the sentence structure uses it as a verb describing what the shop will do."
+          },
+          {
+            "id": "c",
+            "text": "To bring to an end or conclusion",
+            "isCorrect": false,
+            "explanation": "Although this is related to shutting down, in the specific context of a shop, 'close' means to shut the premises rather than conclude an event."
+          },
+          {
+            "id": "d",
+            "text": "Having intimacy in a relationship",
+            "isCorrect": false,
+            "explanation": "While 'close' can describe an intimate relationship, this meaning doesn't fit with a shop and a time."
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "sentence": "The artist used a brush to apply the paint.",
+        "highlightedWord": "brush",
+        "options": [
+          {
+            "id": "a",
+            "text": "A tool with bristles for painting",
+            "isCorrect": true,
+            "explanation": "In this context, 'brush' refers to the artist's tool with bristles used to apply paint to a surface."
+          },
+          {
+            "id": "b",
+            "text": "A brief encounter",
+            "isCorrect": false,
+            "explanation": "While 'brush' can refer to a brief contact or encounter, this meaning doesn't fit with applying paint."
+          },
+          {
+            "id": "c",
+            "text": "Dense vegetation",
+            "isCorrect": false,
+            "explanation": "Although 'brush' can refer to shrubs or dense vegetation, this meaning doesn't make sense with an artist and paint."
+          },
+          {
+            "id": "d",
+            "text": "To touch lightly in passing",
+            "isCorrect": false,
+            "explanation": "While 'brush' can be a verb meaning to touch something lightly, the sentence structure uses it as a noun that the artist used as a tool."
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "sentence": "The farmer checked the condition of the soil.",
+        "highlightedWord": "soil",
+        "options": [
+          {
+            "id": "a",
+            "text": "The top layer of earth in which plants grow",
+            "isCorrect": true,
+            "explanation": "In this context, 'soil' refers to the ground or earth that plants grow in, which farmers need to monitor for successful crops."
+          },
+          {
+            "id": "b",
+            "text": "To make something dirty",
+            "isCorrect": false,
+            "explanation": "While 'soil' can be a verb meaning to make something dirty, the sentence structure uses it as a noun that a farmer is checking."
+          },
+          {
+            "id": "c",
+            "text": "To damage someone's reputation",
+            "isCorrect": false,
+            "explanation": "Although 'soil' can figuratively mean to damage reputation, this meaning doesn't fit with a farmer and checking conditions."
+          },
+          {
+            "id": "d",
+            "text": "Waste matter from the body",
+            "isCorrect": false,
+            "explanation": "While 'soil' can sometimes refer to human waste in medical contexts, this meaning doesn't make sense with a farmer checking its condition."
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "sentence": "The conductor will lead the orchestra tonight.",
+        "highlightedWord": "conductor",
+        "options": [
+          {
+            "id": "a",
+            "text": "A person who directs an orchestra",
+            "isCorrect": true,
+            "explanation": "In this context, 'conductor' refers to the person who directs or leads a musical ensemble like an orchestra."
+          },
+          {
+            "id": "b",
+            "text": "A material that allows electricity to flow",
+            "isCorrect": false,
+            "explanation": "While 'conductor' can refer to a material that conducts electricity, this scientific meaning doesn't fit with leading an orchestra."
+          },
+          {
+            "id": "c",
+            "text": "A person who collects tickets on a train",
+            "isCorrect": false,
+            "explanation": "Although 'conductor' can refer to a person who checks tickets on public transportation, this meaning doesn't make sense with an orchestra."
+          },
+          {
+            "id": "d",
+            "text": "A device that controls heat",
+            "isCorrect": false,
+            "explanation": "While 'conductor' can relate to heat conduction, this meaning doesn't fit with leading an orchestra."
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "sentence": "The second hand on the clock moves quickly.",
+        "highlightedWord": "second",
+        "options": [
+          {
+            "id": "a",
+            "text": "The hand that shows seconds on a clock",
+            "isCorrect": true,
+            "explanation": "In this context, 'second hand' refers to the thin, quickly moving hand on an analog clock that counts seconds."
+          },
+          {
+            "id": "b",
+            "text": "Coming after the first in order",
+            "isCorrect": false,
+            "explanation": "While 'second' can be an ordinal number, when paired with 'hand' on a clock, it specifically refers to the hand that counts seconds, not its order."
+          },
+          {
+            "id": "c",
+            "text": "A small unit of time (1/60 of a minute)",
+            "isCorrect": false,
+            "explanation": "Although 'second' can refer to a unit of time, in this phrase it identifies which hand on the clock, not the unit itself."
+          },
+          {
+            "id": "d",
+            "text": "Previously owned or used",
+            "isCorrect": false,
+            "explanation": "While 'second-hand' can describe used items, this meaning doesn't fit with a part of a clock that moves quickly."
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "sentence": "They had to desert the sinking ship.",
+        "highlightedWord": "desert",
+        "options": [
+          {
+            "id": "a",
+            "text": "To abandon or leave",
+            "isCorrect": true,
+            "explanation": "In this context, 'desert' means to abandon or leave a place, especially when one should stay."
+          },
+          {
+            "id": "b",
+            "text": "A dry, barren area with little rainfall",
+            "isCorrect": false,
+            "explanation": "While 'desert' commonly refers to an arid region, this meaning doesn't fit with a sinking ship."
+          },
+          {
+            "id": "c",
+            "text": "A sweet course eaten at the end of a meal",
+            "isCorrect": false,
+            "explanation": "Although 'dessert' (note the spelling difference) refers to a sweet dish after a meal, this meaning doesn't make sense with a ship, and the spelling is different."
+          },
+          {
+            "id": "d",
+            "text": "Something deserved or earned",
+            "isCorrect": false,
+            "explanation": "While 'desert' can relate to what one deserves (usually in the phrase 'just deserts'), this meaning doesn't fit with leaving a ship."
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "sentence": "We need to wind the clock every day.",
+        "highlightedWord": "wind",
+        "options": [
+          {
+            "id": "a",
+            "text": "To turn a key or handle to make a mechanism work",
+            "isCorrect": true,
+            "explanation": "In this context, 'wind' means to turn a key to tighten the spring in a mechanical clock so it continues to run."
+          },
+          {
+            "id": "b",
+            "text": "Moving air in the atmosphere",
+            "isCorrect": false,
+            "explanation": "While 'wind' commonly refers to moving air, this meaning doesn't fit with something done to a clock."
+          },
+          {
+            "id": "c",
+            "text": "To follow a twisting path",
+            "isCorrect": false,
+            "explanation": "Although 'wind' can refer to a path that curves and turns, this meaning doesn't make sense with a clock."
+          },
+          {
+            "id": "d",
+            "text": "To be out of breath",
+            "isCorrect": false,
+            "explanation": "While 'winded' can describe being out of breath, this meaning doesn't fit with a clock and the verb form is different."
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "sentence": "The lead actor forgot his lines during the play.",
+        "highlightedWord": "lead",
+        "options": [
+          {
+            "id": "a",
+            "text": "Main or principal",
+            "isCorrect": true,
+            "explanation": "In this context, 'lead' means the main or principal actor who plays the most important role in a performance."
+          },
+          {
+            "id": "b",
+            "text": "A heavy metal element",
+            "isCorrect": false,
+            "explanation": "While 'lead' can refer to the metal element with symbol Pb, this meaning doesn't fit with an actor in a play."
+          },
+          {
+            "id": "c",
+            "text": "To guide or direct",
+            "isCorrect": false,
+            "explanation": "Although 'lead' can be a verb meaning to guide or direct, the sentence structure uses it as an adjective describing the actor's role."
+          },
+          {
+            "id": "d",
+            "text": "A cord for controlling an animal",
+            "isCorrect": false,
+            "explanation": "While 'lead' can refer to a leash for an animal, this meaning doesn't make sense with an actor and a play."
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "sentence": "We'll meet you at the entrance to the fair.",
+        "highlightedWord": "fair",
+        "options": [
+          {
+            "id": "a",
+            "text": "A gathering with exhibitions and amusements",
+            "isCorrect": true,
+            "explanation": "In this context, 'fair' refers to a public event with entertainment, exhibitions, and often vendors selling goods."
+          },
+          {
+            "id": "b",
+            "text": "Just or equitable treatment",
+            "isCorrect": false,
+            "explanation": "While 'fair' can refer to equitable treatment, this meaning doesn't fit with meeting at an entrance to it."
+          },
+          {
+            "id": "c",
+            "text": "Moderately good or satisfactory",
+            "isCorrect": false,
+            "explanation": "Although 'fair' can mean acceptable or adequate, this meaning doesn't make sense with having an entrance."
+          },
+          {
+            "id": "d",
+            "text": "Light in color, especially blonde",
+            "isCorrect": false,
+            "explanation": "While 'fair' can describe light coloring or complexion, this meaning doesn't fit with something having an entrance."
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "sentence": "The nail in the tire caused a flat.",
+        "highlightedWord": "flat",
+        "options": [
+          {
+            "id": "a",
+            "text": "A deflated tire",
+            "isCorrect": true,
+            "explanation": "In this context, 'flat' refers to a tire that has lost air and become deflated, usually due to puncture."
+          },
+          {
+            "id": "b",
+            "text": "Having a level surface",
+            "isCorrect": false,
+            "explanation": "While 'flat' commonly refers to a level surface, in the context of a nail in a tire, it specifically means a deflated tire."
+          },
+          {
+            "id": "c",
+            "text": "An apartment",
+            "isCorrect": false,
+            "explanation": "Although 'flat' can refer to an apartment (especially in British English), this meaning doesn't fit with a nail in a tire."
+          },
+          {
+            "id": "d",
+            "text": "A musical note lowered by a half step",
+            "isCorrect": false,
+            "explanation": "While 'flat' in music refers to a note lowered by a half step, this meaning doesn't make sense with a tire and a nail."
+          }
+        ]
+      }
+    ]
+  }

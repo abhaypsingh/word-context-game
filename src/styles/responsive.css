@@ -1,0 +1,47 @@
+/* Responsive styles */
+@media (min-width: 768px) {
+    .options {
+      grid-template-columns: 1fr 1fr;
+    }
+    
+    .game-container {
+      padding: 30px;
+    }
+    
+    .sentence {
+      font-size: 1.8rem;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .header h1 {
+      font-size: 2rem;
+    }
+    
+    .sentence {
+      font-size: 1.3rem;
+      padding: 10px;
+    }
+    
+    .question h2 {
+      font-size: 1.1rem;
+    }
+    
+    .option {
+      padding: 12px;
+    }
+    
+    .option-letter {
+      width: 25px;
+      height: 25px;
+      font-size: 0.9rem;
+    }
+    
+    .feedback {
+      padding: 15px;
+    }
+    
+    .next-button {
+      width: 100%;
+    }
+  }
